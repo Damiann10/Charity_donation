@@ -11,3 +11,4 @@
 * Python, Django
 * JavaScript, JQuery
 * PostgreSQL
+* HTML, CSS
